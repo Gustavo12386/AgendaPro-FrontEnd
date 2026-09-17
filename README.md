@@ -1,8 +1,7 @@
 # AgendaPro-FrontEnd
 
 ## 💻 Sobre a Aplicação
-- Essa aplicação feita com React.js se trata de um sistema de gerenciar o planejamento de projetos para serem construídos futuramente e também permite
-inserir serviços adicionais (considerando o custo projeto) de acordo com a necessidade que o projeto apresenta.
+- Essa interface é uma interface do tipo SPA(Single Page Aplication) projetada para registrar novos serviços, listar e deletar os serviços cadastrados e editar os serviços podendo fazer alterações e colocar serviços adicionais com base no limite do orçamento. A interface foi desenvolvida com TypeScript, React e com o  CSS auxiliar na estilização, assegurando robustez, desempenho e interatividade.
 
 ## ✨ Tecnologias Utilizadas
 - HTML5
