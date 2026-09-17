@@ -1,4 +1,4 @@
-# AgendaPro
+# AgendaPro-FrontEnd
 
 ## 💻 Sobre a Aplicação
 - Essa aplicação feita com React.js se trata de um sistema de gerenciar o planejamento de projetos para serem construídos futuramente e também permite
